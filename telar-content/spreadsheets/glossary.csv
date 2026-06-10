@@ -1,5 +1,6 @@
-term_id,title,definition
-telar,"HMIS","Homeless Management Information System "
-hud,"HUD","Housing & Urban Development"
-tlp,"TLP","Transitional Living Program "
-untitled-term,"Untitled term",""
+term_id,title,definition,related_terms
+id_término,titulo,definición,términos_relacionados
+telar,HMIS,"Homeless Management Information System ",
+hud,HUD,Housing & Urban Development,
+tlp,TLP,"Transitional Living Program ",
+untitled-term,Untitled term,,

@@ -1,0 +1,5 @@
+---
+title: "Learn more"
+---
+
+Over the following decades, that model evolved into a far more integrated system centered on case management, coordinated entry, and proactive outreach. Today, outreach workers engage with individuals living on the streets, complete vulnerability assessments, connect clients to the Homeless Management Information System (HMIS), assist with obtaining identification and benefits, coordinate healthcare and behavioral health services, and navigate pathways into rapid rehousing, permanent supportive housing, or other specialized programs. Rather than simply responding to homelessness through shelter provision, the county now operates a comprehensive continuum of care that relies on sustained case management and interagency coordination to address housing stability and long-term support needs.

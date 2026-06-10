@@ -1,0 +1,6 @@
+---
+title: "Transition House Now"
+---
+
+![Transition House Today](https://civtorea.github.io/homelessness-today/iiif/objects/transition-house-today/transition-house-today.jpg)
+Today, Transition House offers a much broader continuum of services aimed at preventing and ending family homelessness. In addition to emergency shelter, the organization provides transitional and permanent supportive housing, homelessness prevention services, case management, career development, financial literacy and employment programs, referrals for healthcare and counseling, and extensive educational and enrichment programs for children. It also operates a Family Support Center with free community classes such as ESL, parenting, job readiness, and financial literacy, and has expanded its housing portfolio through projects like Buckley-Kelley Place and Balay Ko on Anapamu. The organization's mission has grown beyond temporary shelter to a more family-centered approach that addresses the underlying causes of housing insecurity and poverty.

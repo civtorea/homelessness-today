@@ -8,7 +8,7 @@ url: "https://civtorea.github.io"
 baseurl: "/homelessness-today"
 author: "Victoria Vazquez"
 email: "mvv@ucsb.edu"
-telar_theme: "trama" # Options: trama, paisajes, neogranadina, santa-barbara, austin, or custom
+telar_theme: "trama"
 logo: ""
 telar_language: en
 collection_mode: false
